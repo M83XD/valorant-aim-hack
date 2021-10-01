@@ -1,4 +1,4 @@
-# vexternal
+# vexternal Tarafından Yapılmıştır. Herhangi Bir Kötü Amaçlı yazılım Bulundurmamaktadır. Şimdi Vexternal'a Sözleri Bırakıyorum.
 
 External valorant cheat with imgui (opengl) overlay
 
